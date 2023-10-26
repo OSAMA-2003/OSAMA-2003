@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/osama_ahmd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osama_ahmd_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/osama-ahmed-250648245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-ahmed-250648245/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osama-ahmed-250648245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-ahmed-250648245/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006681611874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006681611874" height="30" width="40" /></a>
 <a href="https://www.instagram.com/osama__32__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/osama__32__/" height="30" width="40" /></a>
 </p>
