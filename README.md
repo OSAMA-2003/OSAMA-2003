@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952onnh39towqk751elwt355iy3oxd4b2d1x6izwvm8&ep=v1_gifs_search&rid=200w.gif&ct=g">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-2003&label=Profile%20views&color=0e75b6&style=flat" alt="osama-2003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/osama_ahmd_" target="blank"><img src="https://img.shields.io/twitter/follow/osama_ahmd_?logo=twitter&style=for-the-badge" alt="osama_ahmd_" /></a> </p>
