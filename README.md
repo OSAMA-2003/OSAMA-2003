@@ -10,8 +10,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://osama-2003.github.io/Portfolio/](https://osama-2003.github.io/Portfolio/)
-
+- 👨‍💻 All of my projects are available at <a href="https://osama-2003.github.io/Portfolio/](https://osama-2003.github.io/Portfolio/"> my portfolio </a>
 - 📫 How to reach me **osos2003ahmd@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
