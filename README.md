@@ -8,12 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/osama_ahmd_" target="blank"><img src="https://img.shields.io/twitter/follow/osama_ahmd_?logo=twitter&style=for-the-badge" alt="osama_ahmd_" /></a> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at <a href="https://osama-2003.github.io/Portfolio/" /> my portfolio </a>
 - 📫 How to reach me **osos2003ahmd@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,8 +48,6 @@
    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="70" height="70"/>
    </a>
-   
- 
    
    <a href="https://angular.io/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="70" height="70"/>
