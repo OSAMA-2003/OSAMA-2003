@@ -46,8 +46,8 @@
    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="70" height="70"/>
    </a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon/minify/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="tailwind" width="100" height="auto"/>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="100" height="100"/>
    </a>
    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="70" height="70"/>
@@ -57,8 +57,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="70" height="70"/>
    </a>
  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon/minify/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" width="100" height="auto"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="100" height="100"/>
    </a>
+
 </p>
 
 
