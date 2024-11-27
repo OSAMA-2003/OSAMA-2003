@@ -47,7 +47,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="70" height="70"/>
    </a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a7/Tailwind_CSS_Logo.svg](https://imgs.search.brave.com/yn7q6BEBtw-3Ddjp1pJPVoJuBeKlYLg54DYcC-BTqLI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL1RhaWx3aW5k/LUNTUy5zdmc)" alt="tailwind" width="70" height="70"/>
+      <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon/minify/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="tailwind" width="100" height="auto"/>
    </a>
    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="70" height="70"/>
@@ -57,7 +57,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="70" height="70"/>
    </a>
  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Angular_logo.svg" alt="angular" width="70" height="70"/>
+      <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon/minify/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" width="100" height="auto"/>
    </a>
 </p>
 
