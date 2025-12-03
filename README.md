@@ -15,17 +15,44 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with me  
 <p align="left">
-<a href="https://twitter.com/osama_ahmd_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
-<a href="https://www.linkedin.com/in/osama-ahmed-250648245/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-<a href="https://www.facebook.com/profile.php?id=100006681611874" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
-<a href="https://www.instagram.com/osama__32__/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/osama_ahmd_" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/osama-ahmed-250648245/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<!-- Facebook (custom icon) -->
+<a href="https://www.facebook.com/profile.php?id=100006681611874" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" style="filter: invert(30%) sepia(70%) saturate(900%) hue-rotate(190deg);" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/osama__32__/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+</a>
+
+<!-- WhatsApp -->
+<a href="https://wa.me/201020718144" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" style="filter: invert(30%) sepia(60%) saturate(600%) hue-rotate(90deg);" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:osos2003ahmd@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" style="filter: invert(30%) sepia(70%) saturate(600%) hue-rotate(350deg);" />
+</a>
+
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="45"/>
   <img src="https://skillicons.dev/icons?i=css" width="45"/>
@@ -38,6 +65,12 @@
   <img src="https://skillicons.dev/icons?i=angular" width="45"/>
   <img src="https://skillicons.dev/icons?i=python" width="45"/>
   <img src="https://skillicons.dev/icons?i=git" width="45"/>
+
+  <!-- New Tools -->
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+  <img src="https://skillicons.dev/icons?i=express" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
 </p>
 
 ---
@@ -47,6 +80,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=osama-2003&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=osama-2003&label=Profile%20Views&color=0e75b6"/>
