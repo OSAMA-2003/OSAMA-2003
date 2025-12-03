@@ -24,7 +24,7 @@
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/osama-ahmed-250648245/" target="_blank">
+<a href="https://www.linkedin.com/in/osamaahmedd/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
