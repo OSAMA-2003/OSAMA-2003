@@ -70,6 +70,7 @@
   <img src="https://skillicons.dev/icons?i=vite" width="45"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
     <img src="https://skillicons.dev/icons?i=npm" width="45"/>
+    <img src="https://skillicons.dev/icons?i=postman" width="45"/>
       <img src="https://skillicons.dev/icons?i=git" width="45"/>
 
 </p>
