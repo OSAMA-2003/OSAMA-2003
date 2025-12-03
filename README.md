@@ -80,19 +80,11 @@
 
 ### 📈 GitHub Analytics
 
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osama-2003&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<!-- Metrics -->
-<p align="center">
-  <img width="60%" src="https://github.com/osama-2003/osama-2003/blob/main/github-metrics.svg" />
-</p>
-
-<!-- Contribution Graph (Snake) -->
-<p align="center">
-  <img src="https://github.com/osama-2003/osama-2003/blob/output/github-contribution-grid-snake.svg" />
+<a href="https://github.com/osama-2003">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=osama-2003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=osama-2003&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 
