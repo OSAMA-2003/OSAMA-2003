@@ -71,6 +71,8 @@
   <img src="https://skillicons.dev/icons?i=express" width="45"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
+  <img src="https://skillicons.dev/icons?i=vite" width="45"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
 </p>
 
 ---
