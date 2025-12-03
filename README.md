@@ -47,18 +47,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=osama-2003&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
----
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osama-2003&show_icons=true&locale=en" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osama-2003" height="180"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=osama-2003&label=Profile%20Views&color=0e75b6"/>
