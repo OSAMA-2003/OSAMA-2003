@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 - 🚀 Frontend Developer focused on building clean & modern web experiences  
-- 🌱 Currently learning **React & Modern UI frameworks**
+- 🌱 Currently learning **React & modern UI frameworks**
 - 📬 Reach me at: **osos2003ahmd@gmail.com**
 - 🇪🇬 From Egypt
 
@@ -38,6 +38,13 @@
   <img src="https://skillicons.dev/icons?i=angular" width="45"/>
   <img src="https://skillicons.dev/icons?i=python" width="45"/>
   <img src="https://skillicons.dev/icons?i=git" width="45"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osama-2003&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
