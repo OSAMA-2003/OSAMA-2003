@@ -30,7 +30,7 @@
 
 <!-- Facebook (custom icon) -->
 <a href="https://www.facebook.com/profile.php?id=100006681611874" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" style="filter: invert(30%) sepia(70%) saturate(900%) hue-rotate(190deg);" />
+  <img src="https://skillicons.dev/icons?i=facebook" width="40"" />
 </a>
 
 <!-- Instagram -->
