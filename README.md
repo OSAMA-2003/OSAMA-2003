@@ -10,7 +10,6 @@
 ### 🌟 About Me
 - 🚀 Frontend Developer focused on building clean & modern web experiences  
 - 🌱 Currently learning **React & modern UI frameworks**
-- 📬 Reach me at: **osos2003ahmd@gmail.com**
 - 🇪🇬 From Egypt
 
 ---
