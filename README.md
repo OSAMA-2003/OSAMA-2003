@@ -28,20 +28,12 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
-<!-- Facebook (custom icon) -->
-<a href="https://www.facebook.com/profile.php?id=100006681611874" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="40"" />
-</a>
-
 <!-- Instagram -->
 <a href="https://www.instagram.com/osama__32__/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
 </a>
 
-<!-- WhatsApp -->
-<a href="https://wa.me/201020718144" target="_blank">
-  <img src="https://skillicons.dev/icons?i=whatsapp" width="40";" />
-</a>
+
 
 <!-- Gmail -->
 <a href="mailto:osos2003ahmd@gmail.com" target="_blank">
