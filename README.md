@@ -1,71 +1,62 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">Frontend Developer • UI Lover • JavaScript Enthusiast</h3>
 
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-2003&label=Profile%20views&color=0e75b6&style=flat" alt="osama-2003" /> </p>
-
-<p align="left"> <a href="https://twitter.com/osama_ahmd_" target="blank"><img src="https://img.shields.io/twitter/follow/osama_ahmd_?logo=twitter&style=for-the-badge" alt="osama_ahmd_" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **osos2003ahmd@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/osama_ahmd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osama_ahmd_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/osama-ahmed-250648245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-ahmed-250648245/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100006681611874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006681611874" height="30" width="40" /></a>
-<a href="https://www.instagram.com/osama__32__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/osama__32__/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="coding">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   </a>
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-   </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-   </a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-   </a>
-   
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-   </a>
-   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-   </a>
-   
-   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
-   </a>
-   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-   </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-   </a>
+---
 
-  
+### 🌟 About Me
+- 🚀 Frontend Developer focused on building clean & modern web experiences  
+- 🌱 Currently learning **React & Modern UI frameworks**
+- 📬 Reach me at: **osos2003ahmd@gmail.com**
+- 🇪🇬 From Egypt
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://twitter.com/osama_ahmd_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+<a href="https://www.linkedin.com/in/osama-ahmed-250648245/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://www.facebook.com/profile.php?id=100006681611874" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
+<a href="https://www.instagram.com/osama__32__/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-2003&show_icons=true&locale=en&layout=compact" alt="osama-2003" /></p>
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+  <img src="https://skillicons.dev/icons?i=npm" width="45"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="45"/>
+  <img src="https://skillicons.dev/icons?i=angular" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osama-2003&show_icons=true&locale=en" alt="osama-2003" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osama-2003&" alt="osama-2003" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-2003&show_icons=true&locale=en&layout=compact" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osama-2003&show_icons=true&locale=en" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osama-2003" height="180"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osama-2003&label=Profile%20Views&color=0e75b6"/>
+</p>
