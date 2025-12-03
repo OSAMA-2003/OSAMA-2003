@@ -40,12 +40,12 @@
 
 <!-- WhatsApp -->
 <a href="https://wa.me/201020718144" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" style="filter: invert(30%) sepia(60%) saturate(600%) hue-rotate(90deg);" />
+  <img src="https://skillicons.dev/icons?i=whatsapp" width="40";" />
 </a>
 
 <!-- Gmail -->
 <a href="mailto:osos2003ahmd@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" style="filter: invert(30%) sepia(70%) saturate(600%) hue-rotate(350deg);" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="40"" />
 </a>
 
 </p>
