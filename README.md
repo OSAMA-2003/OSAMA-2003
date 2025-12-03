@@ -49,10 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-2003&show_icons=true&locale=en&layout=compact" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osama-2003&show_icons=true&locale=en" height="180"/>
